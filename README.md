@@ -5,5 +5,6 @@
 
 ## Workflow
   - FE: 
-  -- npm install --legacy-peer-deps
-  -- npm start
+  
+  - npm install --legacy-peer-deps
+  - npm start
