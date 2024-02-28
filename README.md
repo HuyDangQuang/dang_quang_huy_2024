@@ -1,9 +1,7 @@
 # Interview
 
 ## Source Description
-  - zigvy-corp-fe (https://github.com/react-boilerplate/react-boilerplate)
-  - zigvy-corp-be (https://github.com/bahricanyesil/nodejs-starter-template)
-
+  - zigvy-corp-front-end (https://github.com/react-boilerplate/react-boilerplate)
 
 ## Workflow
   - FE: 
